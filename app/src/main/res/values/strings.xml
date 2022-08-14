@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Yashwant Chouhan</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hey!\n\n I am Yashwant Chouhan\n\n
+        My hometown is Sitamau.
+        I did my primary schooling from there.
+        I was very fortunate that I got such
+        gurdiance to carry my wisdom.They were
+        the people who inspired me and gave me
+        path in my life.Currently I am studing
+        in DAVV University Sanskar Colledge
+        for my graduation in BCA plain.I am
+        currently learning how to build app
+        in Android OS.Before this I have some
+        experience in web development.
+        I learned JavaScript,CSS and HTML
+        to develop web pages.Now I found
+        Android development very interesting so I am trying to build some small apps.
+    Currently I am studing
+        in DAVV University Sanskar Colledge
+        for my graduation in BCA plain.I am
+        currently learning how to build app
+        in Android OS.Before this I have some
+        experience in web development.
+        I learned JavaScript,CSS and HTML
+        to develop web pages.Now I found
+        Android development very interesting so I am trying to build some small apps</string>
+    <string name="Done" />
+    <string name="done">Done</string>
+    <string name="what_is_your_nickname">What is Your nickname?</string>
+</resources>
